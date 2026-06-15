@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm raku1chi 👋
 
-<!--
-**raku1chi/raku1chi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+仕事では Python を中心に、主にバックエンドの開発をしています。
 
-Here are some ideas to get you started:
+個人開発では好きなものや公開データを題材に、
+小さく使いやすいWebアプリや可視化ツールを作っています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+データを集めるところからAPI・データ設計・画面への落とし込み・公開まで、一通り手を動かすのが好きです。
+
+## Works
+
+### ヒーロー予想攻略
+楽天イーグルスの出場パターンを可視化し、イーグルストレカのヒーロー予想をサポートする非公式ツールです。  
+https://washi-hero.pages.dev/
+
+### ただ一枚
+国立美術館5館が公開するパブリックドメイン作品を一点ずつ静かに鑑賞するためのページです。  
+https://artmuseums.pages.dev/
