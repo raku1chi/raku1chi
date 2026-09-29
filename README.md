@@ -14,7 +14,8 @@
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" title="FastAPI" />&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/react/react-original.svg" width="36" height="36" alt="React" title="React" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/cloudflare/cloudflare-original.svg" width="36" height="36" alt="Cloudflare" title="Cloudflare" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/cloudflare/cloudflare-original.svg" width="36" height="36" alt="Cloudflare" title="Cloudflare" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" height="36" alt="AWS" title="AWS" />
 </p>
 
 [raku1chi.dev](https://raku1chi.dev) ・ [X](https://x.com/raku1chi)
