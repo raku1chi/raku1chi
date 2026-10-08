@@ -21,6 +21,6 @@
 
 - [つくったもの](https://raku1chi.dev/#works) — 個人開発でつくって、公開している Web サービス
 - [ノート](https://raku1chi.dev/#notes) — 気になった仕組みを手元で試して、わかったこと
-- [スキル](https://raku1chi.dev/#skills) — ふだん使っている言語やツール
+- [スキル](https://raku1chi.dev/about/) — ふだん使っている言語やツール
 
 [raku1chi.dev](https://raku1chi.dev) ・ [X](https://x.com/raku1chi)
